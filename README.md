@@ -1,10 +1,9 @@
 # Spell Checker
 
-This Python script allows users to check the spelling of any word in a given library. The script utilizes the nltk library for natural language processing and includes a dictionary of over 100,000 words to compare against user input.
+This Python script allows users to check the spelling of any word in a given library. The script utilizes natural language processing and includes a dictionary of over 100,000 words to compare against user input.
 
 ## Usage
 Clone this repository to your local machine.
-Install the necessary dependencies by running pip install -r requirements.txt.
 Run the script with python spell_checker.py.
 Enter a word when prompted to check its spelling.
 ## Features
